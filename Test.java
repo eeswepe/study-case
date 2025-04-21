@@ -4,8 +4,8 @@ public class Test {
         hello("Singgih");
     }
 
-    public static void hello(String name){
+    public static void hello(String name) {
         System.out.println("Hello " + name);
     }
-    
+
 }
